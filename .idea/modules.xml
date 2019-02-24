@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mvn-go-test-app/mvn-go-test-app.iml" filepath="$PROJECT_DIR$/mvn-go-test-app/mvn-go-test-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn-go-test-lib/mvn-go-test-lib.iml" filepath="$PROJECT_DIR$/mvn-go-test-lib/mvn-go-test-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn-go-test-libtwo/mvn-go-test-libtwo.iml" filepath="$PROJECT_DIR$/mvn-go-test-libtwo/mvn-go-test-libtwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn-go-test-metalib/mvn-go-test-metalib.iml" filepath="$PROJECT_DIR$/mvn-go-test-metalib/mvn-go-test-metalib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn-golang-example-maven-repository.iml" filepath="$PROJECT_DIR$/mvn-golang-example-maven-repository.iml" />
+    </modules>
+  </component>
+</project>

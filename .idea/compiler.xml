@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for Example of dependency from Maven repository" enabled="true">
+        <sourceOutputDir name="bin/generated-sources/annotations" />
+        <sourceTestOutputDir name="bin/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mvn-go-test-app" />
+        <module name="mvn-go-test-lib" />
+        <module name="mvn-go-test-libtwo" />
+        <module name="mvn-go-test-metalib" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mvn-go-test-app" target="1.5" />
+      <module name="mvn-go-test-lib" target="1.5" />
+      <module name="mvn-go-test-libtwo" target="1.5" />
+      <module name="mvn-go-test-metalib" target="1.5" />
+      <module name="mvn-golang-example-maven-repository" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
